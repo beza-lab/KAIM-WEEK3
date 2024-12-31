@@ -27,3 +27,10 @@ Task 2
 
 install and configure dvc 
 
+Task 3
+perform statistical distribution and hypothesis testing for the given null hypotheses
+
+Task 4
+Then followed statistical modeling and evaluation
+
+
